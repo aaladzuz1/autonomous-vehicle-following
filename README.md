@@ -14,7 +14,7 @@ Key goal: implement autonomous movement (decision-making without human control) 
 - Motors: 2× IG32 24VDC 74 RPM DC motors
 - Design artifacts: Proteus schematic + PCB design (2D + 3D views)
 
-## Control Logic (High Level)
+## Control Logic
 1. Read both sensor voltages via ADC.
 2. Convert voltage to distance using fitted sensor characteristics.
 3. Compare left vs right distance:
