@@ -29,6 +29,6 @@ The code defines core parameters like `DESIRED_DISTANCE`, `DISTANCE_THRESHOLD`, 
 - Development environment: MPLAB X IDE (used for development and simulation before hardware testing)
 
 ## Repository Contents
-- src/ – PIC C source code
-- docs/ – project report / documentation
-- proteus/ – Proteus schematic/project exports and pcb 2D/3D outputs
+- `src/` – PIC C source code
+- `docs/` – project report / documentation
+- `proteus/` – Proteus schematic/project exports and pcb 2D/3D outputs
